@@ -2,4 +2,5 @@
 /target/
 .idea/
 # configuration
-src/main/resources/configure.properties
+src/main/java/onlineShop/ApplicationConfig.java
+src/main/java/onlineShop/SecurityConfig.java
